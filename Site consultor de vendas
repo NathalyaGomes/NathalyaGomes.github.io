@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leonardo consultor</title>
+    <link rel="stylesheet" href="index.css" </head>
+
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Sobre mim</a>
+            </li>
+            <li>
+                <a href="realestate.html">Imoveis</a>
+            </li>
+            <li>
+                <a href="contact.html">Contato</a>
+            </li>
+        </ul>
+    </nav>
+    <header>
+        <div class="center">
+            <img src="./img/WhatsApp Image 2025-07-28 at 10.18.31.jpeg"></img>
+        </div>
+        <h1>Leonardo consultor</h1>
+        <h2>Consultor de imoveis na planta</h2>
+    </header>
+    <main>
+        <section>
+            <h3>Sobre mim</h3>
+            <p>Sou Consultor de Imóveis especializado em realizar sonhos, seja na compra do primeiro apartamento, na
+                busca por um novo lar ou na escolha do investimento ideal.
+                Atuo com foco em atendimento personalizado, sempre ouvindo as necessidades dos meus clientes para
+                oferecer as melhores oportunidades do mercado. Com transparência, agilidade e conhecimento atualizado,
+                transformo processos burocráticos em experiências tranquilas e seguras.
+                Tenho experiência com:
+
+                Imóveis na planta e prontos para morar
+                Financiamento e documentação
+                Investimentos em imóveis com alto potencial de valorização
+                Atendimento online e presencial em toda a região de Campinas, Hortolandia, Sumare e Paulinia</p>
+        </section>
+
+    </main>
+</body>
+
+</html>
